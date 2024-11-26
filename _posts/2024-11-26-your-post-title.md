@@ -1,8 +1,8 @@
 ---
-title: "Your Post Title"
+title: "My first post"
 date: 2024-11-26
 ---
 
-# Your Post Title
+# My first post
 
 This is the content of your new post.
