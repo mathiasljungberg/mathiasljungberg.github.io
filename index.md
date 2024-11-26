@@ -1,3 +1,4 @@
-# Welcome to My Blog index
-
-This is the homepage of my blog.
+---
+layout: home
+title: "My Blog"
+---
